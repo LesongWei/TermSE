@@ -32,6 +32,6 @@ conda activate TermSE
 ## 🏋️ Training
 
 ```bash
-python script/train.py 
+python script/train.py --device cuda:0
 
 
