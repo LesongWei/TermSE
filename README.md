@@ -34,5 +34,4 @@ conda activate TermSE
 ```bash
 python script/train.py 
 
----
 
